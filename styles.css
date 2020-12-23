@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(black.jpeg);
+    background-attachment: scroll;
+    background-size: cover;
+    font-size: 20px;
+  }
+body{
+    text-align: center;
+    color: white;
+}
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 240px;
+  }
+div{
+    font-size: 20px;
+}
